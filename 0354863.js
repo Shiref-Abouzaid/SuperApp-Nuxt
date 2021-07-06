@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[137],{641:function(e,n,o){"use strict";o.r(n);var d={middleware:function(e){e.redirect("/eg-en/")}},l=o(39),component=Object(l.a)(d,void 0,void 0,!1,null,null,null);n.default=component.exports}}]);
